@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background-color: transparent;
+    box-sizing: border-box;
+}
+
+body {
+    line-height: 1;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+header ul main footer{
+    max-width: 1064px;
+    min-width: 500px;
+}
+
+
